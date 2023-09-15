@@ -1,2 +1,5 @@
 subtraction
 3-2=1
+
+division
+10/5=2
